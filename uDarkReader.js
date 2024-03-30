@@ -1,2 +1,5 @@
 /// udarkreader.js
-alert("good morning")
+(function() {
+  alert("hi");
+  alert("hi2")
+})()
