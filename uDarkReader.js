@@ -1,4 +1,4 @@
 /// udarkreader.js
-document.onload = function () {
+document.addEventListener("DOMContentLoaded", function () {
     alert("loaded")
-}
+})
