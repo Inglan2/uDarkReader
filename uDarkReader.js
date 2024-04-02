@@ -1,4 +1,4 @@
 /// udarkreader.js
-document.onloadstart = function () {
-    alert("start load")
+document.onload = function () {
+    alert("loaded")
 }
