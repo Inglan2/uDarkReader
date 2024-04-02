@@ -1,10 +1,5 @@
 /// udarkreader.js
 document.addEventListener("DOMContentLoaded", function () {
-/**
- * Dark Reader v4.9.81
- * https://darkreader.org/
- */
-
 (function (global, factory) {
     typeof exports === "object" && typeof module !== "undefined"
         ? factory(exports)
